@@ -25,6 +25,6 @@
 
 ### Установка и запуск тестов
 
-- скачать проект `git clone `  https://github.com/olga-lo/playwright-test-9red.git
+- скачать проект `git clone  https://github.com/olga-lo/playwright-test-9red.git`
 - установаить зависимости `npm install`
 - запустить тесты `npx playwrite test`
